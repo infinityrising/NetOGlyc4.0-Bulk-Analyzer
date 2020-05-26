@@ -4,6 +4,4 @@ The NetOglyc server (http://www.cbs.dtu.dk/services/NetOGlyc/) produces neural n
 
 The NetOGlyc4.0-BulkAnalyzer is an algorithm written in Python3 that is designed to specifically bypass these limitations. This algorithm takes a ".fasta" as an input file, breaks it down into parts, and systematically submits the data to the NetOGlyc server for prediction of O-glycosylation sites. The program will then query the result pages until all the results are processed, at which point the data will be output into a ".text" file.
 
-I hope that this program enhances your ability to make scientific discoveries.
-
 Zacko
